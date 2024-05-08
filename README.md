@@ -58,7 +58,7 @@ git clone https://github.com/YourGitHubUsername/StockAnalysisAI.git
 
 ### Credits
 
-This project was developed by Gargi Chandrakar, leveraging advanced technologies to simplify and enhance the analysis of financial data. For further inquiries or contributions, please contact [Gargi's email].
+This project was developed by Gargi Chandrakar, leveraging advanced technologies to simplify and enhance the analysis of financial data. For further inquiries or contributions, please contact gargi_2001ee89@iitp.ac.in
 
 ---
 
