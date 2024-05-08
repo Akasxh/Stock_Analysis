@@ -49,7 +49,7 @@ These tools were selected to provide a robust framework for your project, ensuri
 ```bash
 git clone https://github.com/YourGitHubUsername/StockAnalysisAI.git
 
-
+```
 ---
 
 ### Credits
