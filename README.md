@@ -10,12 +10,6 @@ Where the ########## is the entity’s 10-digit Central Index Key (CIK), includi
 
 # StockAnalysisAI
 
-__SLIDES__: https://docs.google.com/presentation/d/<your_slide_link_here>/edit?usp=sharing
-
-__DOCUMENT__: https://drive.google.com/file/d/<your_document_link_here>/view?usp=sharing
-
-__HOW TO USE__: https://docs.google.com/presentation/d/<your_usage_guide_link_here>/edit?usp=sharing
-
 #### StockAnalysisAI: Empowering Investment Decisions
 
 StockAnalysisAI is a powerful tool designed to automate the analysis of financial documents and visualize stock performance trends. This platform leverages advanced NLP technologies to analyze SEC 10-K filings, providing investors with actionable insights and in-depth stock analysis.
@@ -38,9 +32,23 @@ Perform advanced text analysis on the downloaded SEC filings. Using the latest L
 
 Generate compelling visualizations from the analyzed data to help users easily understand trends, compare metrics, and make informed investment decisions.
 
-### Try it out
+### Technology Stack
 
-Ensure you have git installed: https://git-scm.com/
+- **BeautifulSoup**: Used for parsing HTML documents. Chosen for its simplicity and ease of use, which is ideal for scraping web pages efficiently.
+
+- **sec-edgar-downloader**: Automates the downloading of SEC filings. It provides a simpler, high-level interface compared to directly using the SEC EDGAR API, saving development time.
+
+- **Arelle**: Handles XBRL and iXBRL financial data, essential for analyzing complex financial reports. It's open-source and supports extensive XBRL capabilities, making it superior for financial data tasks.
+
+- **TextBlob**: Simplifies text processing tasks such as sentiment analysis and part-of-speech tagging. Offers a straightforward API, making it accessible and easy to integrate for NLP tasks.
+
+- **Pandas**: A powerful library for data manipulation and analysis. It's preferred for its rich data structures and functions that are specifically designed for handling structured data efficiently.
+
+- **Matplotlib/Seaborn**: Used for creating a wide range of static and interactive visualizations. Matplotlib provides the foundation for detailed customizations, while Seaborn adds attractive and informative statistical graphics capabilities.
+
+These tools were selected to provide a robust framework for your project, ensuring efficiency and effectiveness in data processing, analysis, and visualization.
+
+
 
 ```bash
 git clone https://github.com/YourGitHubUsername/StockAnalysisAI.git
