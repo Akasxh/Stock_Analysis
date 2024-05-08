@@ -1,5 +1,3 @@
-# Stock_Analysis
-
 # StockAnalysisAI
 
 #### StockAnalysisAI: Empowering Investment Decisions
@@ -50,3 +48,14 @@ These tools were selected to provide a robust framework for your project, ensuri
 
 ```bash
 git clone https://github.com/YourGitHubUsername/StockAnalysisAI.git
+
+
+---
+
+### Credits
+
+This project was developed by Gargi Chandrakar, leveraging advanced technologies to simplify and enhance the analysis of financial data. For further inquiries or contributions, please contact [Gargi's email].
+
+---
+
+Ⓒ 2024 Gargi Chandrakar. All Rights Reserved.
