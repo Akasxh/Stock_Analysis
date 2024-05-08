@@ -1,0 +1,6 @@
+pip install beautifulsoup4
+pip install sec-edgar-downloader
+pip install openpyxl
+pip install pandas
+pip install textblob
+pip install arelle
