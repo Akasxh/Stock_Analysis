@@ -1,13 +1,5 @@
 # Stock_Analysis
 
-### Dataset
-Each entity’s current filing history is available at the following URL:
-
-https://data.sec.gov/submissions/CIK##########.json
-
-Where the ########## is the entity’s 10-digit Central Index Key (CIK), including leading zeros.
-
-
 # StockAnalysisAI
 
 #### StockAnalysisAI: Empowering Investment Decisions
@@ -23,6 +15,12 @@ Our application automates the extraction and analysis of SEC 10-K filings from p
 ##### Data Download:
 
 Automatically download SEC 10-K filings for selected companies across multiple years using the sec-edgar-downloader package. This feature simplifies the process of obtaining necessary filings for analysis.
+
+Each entity’s current filing history is available at the following URL:
+
+https://data.sec.gov/submissions/CIK##########.json
+
+Where the ########## is the entity’s 10-digit Central Index Key (CIK), including leading zeros.
 
 #### Text Analysis:
 
