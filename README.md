@@ -4,9 +4,9 @@
 
 StockAnalysisAI is a powerful tool designed to automate the analysis of financial documents and visualize stock performance trends. This platform leverages advanced NLP technologies to analyze SEC 10-K filings, providing investors with actionable insights and in-depth stock analysis.
 
-```markdown
+
 ![Flowchart](image.png)
-```
+
 
 #### Automated SEC Filings Analysis
 
